@@ -1,0 +1,14 @@
+C:\repo\AralikliFibonacciOrtalamasi\obj\Debug\net8.0\AralikliFibonacciOrtalamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\AralikliFibonacciOrtalamasi\obj\Debug\net8.0\AralikliFibonacciOrtalamasi.AssemblyInfoInputs.cache
+C:\repo\AralikliFibonacciOrtalamasi\obj\Debug\net8.0\AralikliFibonacciOrtalamasi.AssemblyInfo.cs
+C:\repo\AralikliFibonacciOrtalamasi\obj\Debug\net8.0\AralikliFibonacciOrtalamasi.csproj.CoreCompileInputs.cache
+C:\repo\AralikliFibonacciOrtalamasi\bin\Debug\net8.0\AralikliFibonacciOrtalamasi.exe
+C:\repo\AralikliFibonacciOrtalamasi\bin\Debug\net8.0\AralikliFibonacciOrtalamasi.deps.json
+C:\repo\AralikliFibonacciOrtalamasi\bin\Debug\net8.0\AralikliFibonacciOrtalamasi.runtimeconfig.json
+C:\repo\AralikliFibonacciOrtalamasi\bin\Debug\net8.0\AralikliFibonacciOrtalamasi.dll
+C:\repo\AralikliFibonacciOrtalamasi\bin\Debug\net8.0\AralikliFibonacciOrtalamasi.pdb
+C:\repo\AralikliFibonacciOrtalamasi\obj\Debug\net8.0\AralikliFibonacciOrtalamasi.dll
+C:\repo\AralikliFibonacciOrtalamasi\obj\Debug\net8.0\refint\AralikliFibonacciOrtalamasi.dll
+C:\repo\AralikliFibonacciOrtalamasi\obj\Debug\net8.0\AralikliFibonacciOrtalamasi.pdb
+C:\repo\AralikliFibonacciOrtalamasi\obj\Debug\net8.0\AralikliFibonacciOrtalamasi.genruntimeconfig.cache
+C:\repo\AralikliFibonacciOrtalamasi\obj\Debug\net8.0\ref\AralikliFibonacciOrtalamasi.dll
