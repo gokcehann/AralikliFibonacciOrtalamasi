@@ -1,4 +1,7 @@
-﻿using System;
+﻿//13.08.2024 - Belli bir aralıktaki fibonacci sayılarının aritmetik ortalamasını alır.
+//Gökçehan Özdemir
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 
